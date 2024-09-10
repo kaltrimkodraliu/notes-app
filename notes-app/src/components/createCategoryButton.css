@@ -1,0 +1,41 @@
+.buttonContainer {
+  width: 100%;
+  border-bottom-right-radius: 0px;
+  border-top-right-radius: 0px;
+  background-color: #71cf48;
+  cursor: pointer;
+  border: none;
+}
+
+.buttonContainer:hover {
+  background-color: #71cf48;
+}
+
+.buttonContent {
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+  background-color: #71cf48;
+  cursor: pointer;
+  border: none;
+  border-left: 1px #f9f9f9 solid;
+}
+
+.buttonContent:hover {
+  background-color: #71cf48;
+}
+
+.category-input {
+  border: none;
+  background-color: #f8f8f8;
+  width: 100%;
+}
+
+.tick-button {
+  background-color: #71cf48;
+  border: none;
+}
+
+.x-button {
+  border: none;
+  background-color: #fe4c4a;
+}

@@ -1,0 +1,23 @@
+.saveButtonContainer {
+  width: 150px;
+  border-bottom-right-radius: 0px;
+  border-top-right-radius: 0px;
+  border: none;
+  background-color: #71cf48;
+}
+
+.saveButtonContainer:hover {
+  background-color: #71cf48;
+}
+
+.saveButtonContent {
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+  border: none;
+  border-left: 1px #efefef solid;
+  background-color: #71cf48;
+}
+
+.saveButtonContent:hover {
+  background-color: #71cf48;
+}

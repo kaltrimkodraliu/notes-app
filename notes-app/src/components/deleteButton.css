@@ -1,0 +1,15 @@
+.deleteButtonContainer {
+  background-color: #fe4c4a;
+  width: 150px;
+  border-bottom-right-radius: 0px;
+  border-top-right-radius: 0px;
+  border: none;
+}
+
+.deleteButtonContent {
+  background-color: #fe4c4a;
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+  border: none;
+  border-left: 1px #efefef solid;
+}

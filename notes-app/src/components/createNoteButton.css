@@ -1,0 +1,24 @@
+.buttonNoteContainer {
+  width: 100%;
+  border-bottom-right-radius: 0px;
+  border-top-right-radius: 0px;
+  background-color: #71cf48;
+  cursor: pointer;
+  border: none;
+}
+.buttonNoteContainer:hover {
+  background-color: #71cf48;
+}
+
+.buttonNoteContent {
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+
+  background-color: #71cf48;
+  cursor: pointer;
+  border: none;
+  border-left: 1px #efefef solid;
+}
+.buttonNoteContent:hover {
+  background-color: #71cf48;
+}
